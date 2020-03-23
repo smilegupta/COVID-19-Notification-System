@@ -16,5 +16,5 @@ Technology used:
 
 2. Python Library **Beautiful Soup** :octocat:
    #### Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
-   ##### Souuce of website scrapping: https://www.mohfw.gov.in/
+   ##### Source of website scrapping: https://www.mohfw.gov.in/
    *https://www.crummy.com/software/BeautifulSoup/*
