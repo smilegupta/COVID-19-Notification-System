@@ -1,4 +1,7 @@
 # COVID-19-Notification-System
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/smilegupta)
+
 It is a Realtime CoronaVirus Outbreak Notification System
 
 It is a system that will tell you the number of virus spread cases within India. It will also tell you the state wise information of all the description according to your adjusted time it will tell number of deaths, infected and cured people. It aims in telling out real time update so that you don't need t check website of COVID-19 time to time. 
