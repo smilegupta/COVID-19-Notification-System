@@ -98,3 +98,51 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 
 Possible vaccines and some specific drug treatments are under investigation. They are being tested through clinical trials. WHO is coordinating efforts to develop vaccines and medicines to prevent and treat COVID-19.
 The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue, and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing.
+
+### Stay Home, Stay Safe
+
+:wave: [DO THE FIVE](https://www.mohfw.gov.in/): Help stop coronavirus
+
+1. **HANDS**: Wash them often
+2. **ELBOW**: Cough into it
+3. **FACE**: Don't touch it
+4. **SPACE**: Keep safe distance
+5. **HOME**: Stay if you can
+
+
+#### Avoid Handshakes 🤝 ❌
+#### Do Namastey 🙏 ✔️
+
+```bash
+
+Let's fight for Corona together!
+ 
+function stayAtHome() {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+
+while(_.isAlive(new Virus('COVID-19'))) {
+  // Stay home, Stay safe
+  stayAtHome();
+}
+
+```
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smilegupta.1998&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/smilegupta.1998)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@gupta_smile_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/gupta_smile_/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@gupta_smile_&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/gupta_smile_)
+
+***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/SimpleBio/) this repo.***
+
+-----
+
+```
+
+  if (isAwesome) {
+    // thanks in advance :p
+    starThisRepository();
+  }
+
+```
+
+******
